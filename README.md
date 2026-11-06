@@ -1,4 +1,4 @@
-# Hola, soy icemancoin
+# Hola, soy Iceman de Tarraco Domo!
 
 Domótica, sensores y redes en Tarragona. Monto sistemas que funcionan solos: luces que reaccionan, cámaras que avisan y placas que aguantan meses con una pila. Documento lo que aprendo por el camino, con los comandos y los errores incluidos.
 
